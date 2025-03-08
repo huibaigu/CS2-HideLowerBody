@@ -1,6 +1,7 @@
 - net                8.0
 - CounterStrikeSharp 1.0.305
-在原仓库的基础上修改为，截止目前还能正常使用
+  
+在原仓库的基础上修改，截止目前还能正常使用
 
 # CS2-HideLowerBody
  This plugin allows players to hide their lower body view models.
