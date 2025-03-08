@@ -76,7 +76,7 @@ namespace CS2HideLowerBody
             }
         }
 
-        private static void SetPawnAlphaRender(CCSPlayerController controller) => controller.PlayerPawn.Value!.Render = Color.FromArgb(players[controller.UserId??-1] ? 1 : 255,
+        private static void SetPawnAlphaRender(CCSPlayerController controller) => controller.PlayerPawn.Value!.Render = Color.FromArgb(players[controller.UserId??-1] ? 254 : 255,
                 controller.PlayerPawn.Value.Render.R, controller.PlayerPawn.Value.Render.G, controller.PlayerPawn.Value.Render.B);
 
         private static void UpdatePlayer(CCSPlayerController controller)
