@@ -1,12 +1,13 @@
-在原仓库的基础上修改，截止目前还能正常使用
+- net                8.0
+- CounterStrikeSharp 1.0.305
+在原仓库的基础上修改为，截止目前还能正常使用
 
 # CS2-HideLowerBody
  This plugin allows players to hide their lower body view models.
 
 ### Requirements
-
   - [Metamod:Source](https://www.sourcemm.net/downloads.php/?branch=master) (Dev Build)
-  - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ([Version 30](https://github.com/roflmuffin/CounterStrikeSharp/releases/tag/v30) or higher)
+  - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) ([Version 1.0.305](https://github.com/roflmuffin/CounterStrikeSharp/releases/tag/v30) or higher)
 
   Download the latest release of CS2-HideLowerBody from the [GitHub Release Page](https://github.com/dran1x/CS2-HideLowerBody/releases/latest).
 
